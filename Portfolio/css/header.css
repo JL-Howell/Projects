@@ -1,0 +1,6 @@
+.jumbotron {
+    background: url('../assets/beachImage.jpg') center bottom;
+    background-size: cover; /* we want to cover the whole div*/
+    height: 25vh;
+    color: white;
+}

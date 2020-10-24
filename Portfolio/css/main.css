@@ -1,0 +1,8 @@
+/* we will be linking all of our files together (that is the @import):*/
+@import "about.css";
+@import "body.css";
+@import "contact.css";
+@import "footer.css";
+@import "header.css";
+@import "navbar";
+@import "projects.css";
